@@ -2,6 +2,13 @@
 
 A simple smtp mail scheduler build by gomail and cron.
 
+## Install
+```shell
+
+go get -u github.com/AmbitiousJun/go-mailscheduler
+
+```
+
 ## Usage
 
 ```go
